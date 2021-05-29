@@ -3,4 +3,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 # Installation
 
- git clone https://github.com/VolkanGoksu/kodluyoruzilkrepo.git 
+ ``` git clone https://github.com/VolkanGoksu/kodluyoruzilkrepo.git ```
